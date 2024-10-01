@@ -44,18 +44,23 @@ For any inquiries or suggestions, feel free to contact me via:
 
 ## Screenshots
 
-Main Dashboard![Dashboard 1 (4)](https://github.com/user-attachments/assets/b4dbfd15-c7ee-445a-911d-dd362dea72b7)
+Main Dashboard: 
+![Dashboard 1 (4)](https://github.com/user-attachments/assets/45bcbfaa-af77-4260-b8a7-30dd07f6469f)
 
-![Wp 2](https://github.com/user-attachments/assets/1dfb5c65-d92c-430d-9713-16670dc17430)
+Continent by Chang Migiration:
+![Wp 2](https://github.com/user-attachments/assets/ff091af0-609c-47a6-ac5b-0f8477c60518)
 
-![Wp 3](https://github.com/user-attachments/assets/965bedd7-0ee0-49f3-a4aa-a3773d0efecd)
+Population by Continent:
+![Wp 3](https://github.com/user-attachments/assets/6ec10ee3-7824-42c8-bb33-b4ece46800b2)
 
-![Wp 4](https://github.com/user-attachments/assets/33f7d3b7-13dc-481d-95fd-21a72fb89809)
+Load of Continet Area:
+![Wp 1](https://github.com/user-attachments/assets/0b69b12d-6a00-491e-ae1f-fed0baa3bdfa)
 
-![Wp 5](https://github.com/user-attachments/assets/d1947dac-8041-4b1f-a223-86c1ef599636)
+Mid Age by Continent:
+![Wp 6](https://github.com/user-attachments/assets/d00f8703-b1b0-4de4-90cf-67b4723b57d6)
 
-![Wp 1](https://github.com/user-attachments/assets/3e76b382-f3f5-428e-a335-d384b40b92a1)
+KPI :
+![Wp 5](https://github.com/user-attachments/assets/1616adf1-9d0b-4b58-acaf-f5105fc7036c)
 
-![Wp 6](https://github.com/user-attachments/assets/bc901716-02b7-4db0-9128-c064be41d74b)
 
-![Wp 7](https://github.com/user-attachments/assets/401b9c32-3bc6-420f-9eba-927b8d21962b)
+Filter by Continent![Wp 7](https://github.com/user-attachments/assets/7f7aaa3b-5ed0-4124-9354-248140d3e4aa)
