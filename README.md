@@ -45,24 +45,17 @@ For any inquiries or suggestions, feel free to contact me via:
 ## Screenshots
 
 Main Dashboard![Dashboard 1 (4)](https://github.com/user-attachments/assets/b4dbfd15-c7ee-445a-911d-dd362dea72b7)
-
 Continent by Chang Migiration
 ![Wp 2](https://github.com/user-attachments/assets/1dfb5c65-d92c-430d-9713-16670dc17430)
-
 Population by Continent
 ![Wp 3](https://github.com/user-attachments/assets/965bedd7-0ee0-49f3-a4aa-a3773d0efecd)
-
 Population by Conutry
 ![Wp 4](https://github.com/user-attachments/assets/33f7d3b7-13dc-481d-95fd-21a72fb89809)
-
 KPI
 ![Wp 5](https://github.com/user-attachments/assets/d1947dac-8041-4b1f-a223-86c1ef599636)
-
 Land Area by Continent
 ![Wp 1](https://github.com/user-attachments/assets/3e76b382-f3f5-428e-a335-d384b40b92a1)
-
 Mid Age by Continent
 ![Wp 6](https://github.com/user-attachments/assets/bc901716-02b7-4db0-9128-c064be41d74b)
-
 Filter by Continent
 ![Wp 7](https://github.com/user-attachments/assets/401b9c32-3bc6-420f-9eba-927b8d21962b)
