@@ -47,20 +47,15 @@ For any inquiries or suggestions, feel free to contact me via:
 Main Dashboard: 
 ![Dashboard 1 (4)](https://github.com/user-attachments/assets/45bcbfaa-af77-4260-b8a7-30dd07f6469f)
 
-Continent by Chang Migiration:
 ![Wp 2](https://github.com/user-attachments/assets/ff091af0-609c-47a6-ac5b-0f8477c60518)
 
-Population by Continent:
 ![Wp 3](https://github.com/user-attachments/assets/6ec10ee3-7824-42c8-bb33-b4ece46800b2)
 
-Load of Continet Area:
 ![Wp 1](https://github.com/user-attachments/assets/0b69b12d-6a00-491e-ae1f-fed0baa3bdfa)
 
-Mid Age by Continent:
 ![Wp 6](https://github.com/user-attachments/assets/d00f8703-b1b0-4de4-90cf-67b4723b57d6)
 
-KPI :
 ![Wp 5](https://github.com/user-attachments/assets/1616adf1-9d0b-4b58-acaf-f5105fc7036c)
 
 
-Filter by Continent![Wp 7](https://github.com/user-attachments/assets/7f7aaa3b-5ed0-4124-9354-248140d3e4aa)
+![Wp 7](https://github.com/user-attachments/assets/7f7aaa3b-5ed0-4124-9354-248140d3e4aa)
